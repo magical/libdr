@@ -1,3 +1,8 @@
+/*
+This file is part of libdr. Copyright 2014 Andrew Ekstedt. See LICENSE for
+terms of use. NO WARRANTY.
+*/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdint.h>
